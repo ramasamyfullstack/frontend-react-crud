@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ramasamyfullstack/frontent-react-crud/static/css/main.24a4a0b1.css",
-    "main.js": "/ramasamyfullstack/frontent-react-crud/static/js/main.ff07e68d.js",
+    "main.js": "/ramasamyfullstack/frontent-react-crud/static/js/main.655a47ac.js",
     "static/js/453.670e15c7.chunk.js": "/ramasamyfullstack/frontent-react-crud/static/js/453.670e15c7.chunk.js",
     "index.html": "/ramasamyfullstack/frontent-react-crud/index.html",
     "main.24a4a0b1.css.map": "/ramasamyfullstack/frontent-react-crud/static/css/main.24a4a0b1.css.map",
-    "main.ff07e68d.js.map": "/ramasamyfullstack/frontent-react-crud/static/js/main.ff07e68d.js.map",
+    "main.655a47ac.js.map": "/ramasamyfullstack/frontent-react-crud/static/js/main.655a47ac.js.map",
     "453.670e15c7.chunk.js.map": "/ramasamyfullstack/frontent-react-crud/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24a4a0b1.css",
-    "static/js/main.ff07e68d.js"
+    "static/js/main.655a47ac.js"
   ]
 }
