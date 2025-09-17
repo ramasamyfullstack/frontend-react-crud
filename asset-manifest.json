@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramasamyfullstack/frontent-react-crud.git/static/css/main.24a4a0b1.css",
+    "main.js": "/ramasamyfullstack/frontent-react-crud.git/static/js/main.b68b0bff.js",
+    "static/js/453.670e15c7.chunk.js": "/ramasamyfullstack/frontent-react-crud.git/static/js/453.670e15c7.chunk.js",
+    "index.html": "/ramasamyfullstack/frontent-react-crud.git/index.html",
+    "main.24a4a0b1.css.map": "/ramasamyfullstack/frontent-react-crud.git/static/css/main.24a4a0b1.css.map",
+    "main.b68b0bff.js.map": "/ramasamyfullstack/frontent-react-crud.git/static/js/main.b68b0bff.js.map",
+    "453.670e15c7.chunk.js.map": "/ramasamyfullstack/frontent-react-crud.git/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a4a0b1.css",
+    "static/js/main.b68b0bff.js"
+  ]
+}
